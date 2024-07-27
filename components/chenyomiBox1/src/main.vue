@@ -7,6 +7,7 @@
 const props = defineProps({
     colorType: {
         type: Number,
+        default: 1
     },
 })
 </script>
